@@ -14,6 +14,49 @@ body {
     color: white;
 }
 
+.donation-amount {
+    display: flex;
+
+}
+
+.donation-area {
+    margin: 6%;
+    padding: 10px 40px;
+    box-shadow: 2px 2px 2px 2px gold;
+}
+
+.alert-area {
+    margin: 6%;
+    padding: 10px 40px;
+    background-color: pink;
+    box-shadow: 2px 2px 2px 2px pink;
+
+}
+
+.alert-area-2 {
+    margin: 6%;
+    padding: 10px 40px;
+    background-color: cyan;
+    box-shadow: 2px 2px 2px 2px cyan;
+
+
+}
+
+.alert-area-3 {
+    margin: 6%;
+    padding: 10px 40px;
+    background-color: darkkhaki;
+    box-shadow: 2px 2px 2px 2px darkkhaki;
+
+}
+
+
+.donation-area-two {
+    margin: 6%;
+    padding: 10px 40px;
+    box-shadow: 2px 2px 2px 2px red;
+}
+
 .new-button {
     text-decoration: none;
     font-size: 30px;
@@ -24,4 +67,16 @@ body {
     border-radius: 15%;
     border: 3px;
 
+}
+
+.others {
+    font-weight: lighter;
+    text-align: center;
+    margin-left: 20%;
+}
+
+.half-width {
+    font-weight: lighter;
+    font-size: 150%;
+    padding: 2%;
 }
