@@ -69,6 +69,18 @@ body {
 
 }
 
+.subs {
+    text-decoration: none;
+    font-size: 30px;
+    background-color: chartreuse color;
+    color: black;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 15%;
+    border: 3px;
+
+}
+
 .others {
     font-weight: lighter;
     text-align: center;
@@ -79,4 +91,19 @@ body {
     font-weight: lighter;
     font-size: 150%;
     padding: 2%;
+}
+
+.left {
+    text-align: left;
+    font-size: 150%;
+}
+
+.lastbg {
+    background-color: blueviolet;
+    background-position: inherit;
+    height: 200%;
+}
+
+.footerjj {
+    font-size: 250%;
 }
